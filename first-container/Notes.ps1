@@ -1,4 +1,4 @@
 
 #Creation Image
 
-docker image build -t tuipoo/premier-test-docker:1.0
+docker image build -t tuipoo/premier-test-docker:1.0 .
